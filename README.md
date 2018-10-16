@@ -14,4 +14,4 @@ this is a multi-model poetry generation paper list. I will report some important
 -  Generating Topical Poetry. EMNLP-2016, [[paper]](http://www.aclweb.org/anthology/D16-1126), [[sides]](http://xingshi.me/data/pdf/EMNLP2016poem-slides.pdf), 
 - Hafez: an Interactive Poetry Generation System, ACL17-DEMO paper, [[paper]](http://xingshi.me/data/pdf/ACL2017demo.pdf) ,[[code]](https://github.com/shixing/poem)
 - Flexible and Creative Chinese Poetry Generation Using Neural Memory, ACL2017, [[paper]](http://aclweb.org/anthology/P17-1125)
-- Generating Thematic Chinese Poetry using Conditional Variational Autoencoders with Hybrid Decoders, IJCAI-19, [[paper]](https://www.ijcai.org/proceedings/2018/0631.pdf), 
+- Generating Thematic Chinese Poetry using Conditional Variational Autoencoders with Hybrid Decoders, IJCAI-18, [[paper]](https://www.ijcai.org/proceedings/2018/0631.pdf), 
