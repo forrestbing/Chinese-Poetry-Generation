@@ -1,5 +1,5 @@
 # multimodel-poetry-generation
-this is a multi-model poetry generation paper list. I will report some important papers, and I think these papers will helps research for poetry generation task. It also contains related datasets and codebase. 
+this is a multi-model poetry generation paper list. I will report some important papers, and I think these papers will help research for poetry generation task. It also contains related datasets and codebase. 
 
 
 
