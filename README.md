@@ -1,9 +1,9 @@
 # multimodel-poetry-generation
-this is a multi-model poetry generation paper list. I will report some important papers, and I think these papers will help research for poetry generation task. It also contains related datasets and codebase. 
+this is a multi-model Chinese poetry generation paper list. I will report some important papers, and I think these papers will help research for poetry generation task. It also contains related datasets and codebase. 
 
 
 
-## Datasets
+## Datasets(Chinese)
 - https://github.com/werner-wiki/Poetry
 - http://www.shigeku.org/
 - splider: https://github.com/ForwillZhang/Chinese-Modern-Poetry
