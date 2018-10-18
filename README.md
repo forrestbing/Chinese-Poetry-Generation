@@ -5,6 +5,7 @@ this is a multi-model Chinese poetry generation paper list. I will report some i
 
 ## Datasets(Chinese)
 - https://github.com/werner-wiki/Poetry
+- http://www.zgshige.com/sg/xds/
 - http://www.shigeku.org/
 - splider: https://github.com/ForwillZhang/Chinese-Modern-Poetry
 
