@@ -21,3 +21,4 @@ this is a multi-model Chinese poetry generation paper list. I will report some i
 - Stylistic Chinese Poetry Generation via Unsupervised Style Disentanglement, EMNLP-2018, [[paper]](http://nlp.csai.tsinghua.edu.cn/~yangcheng/publications/emnlp2018.pdf)
 - InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, ICLR2017, [[paper]](https://arxiv.org/pdf/1606.03657.pdf), [[slides]](https://hci.iwr.uni-heidelberg.de/system/files/private/downloads/84501945/peter_huegel_infogan_slides.pdf)
 - Beyond Narrative Description: Generating Poetry from Images by Multi-Adversarial Training, ACM Multimedia 2018, [[paper]](https://arxiv.org/pdf/1804.08473v4.pdf), [[code]](https://github.com/bei21/img2poem) 
+- Topic-to-Essay Generation with Neural Networks, [[paper]](http://ir.hit.edu.cn/~xcfeng/xiaocheng%20Feng's%20Homepage_files/final-topic-essay-generation.pdf), [[code]](https://github.com/hit-computer/MTA-LSTM)
